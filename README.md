@@ -19,5 +19,7 @@ Track topic and materials mentioned.
 
   - [useEffect and component lifecycle](https://codesandbox.io/s/use-effect-hooks-talk-3ocgi)
   - [Why we use a callback function when using setState](https://reactjs.org/docs/faq-state.html#why-is-setstate-giving-me-the-wrong-value)
-
-Further reading: https://github.com/codingtogethergroup/react-hooks/tree/main/src/examples
+  - Further reading: https://github.com/codingtogethergroup/react-hooks/tree/main/src/examples
+  
+- 02/11/2021
+  -[Lifting state up and context](https://codesandbox.io/s/sefe-lifting-state-up-1653v)
