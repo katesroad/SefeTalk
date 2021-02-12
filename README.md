@@ -23,4 +23,4 @@ Track topic and materials mentioned.
   
 - 02/11/2021
 
- [Lifting state up and context](https://codesandbox.io/s/sefe-lifting-state-up-1653v)
+ - [Lifting state up and context](https://codesandbox.io/s/sefe-lifting-state-up-1653v)
