@@ -27,5 +27,5 @@ Track topic and materials mentioned.
 - 02/15/2021
   - [promise, async, await 1.](https://codesandbox.io/s/promise-fetch-gucse)
 
-- 02/15/2021
+- 02/18/2021
   - [promise, async, await 2.](https://codesandbox.io/s/promise-aysnc-2-pugkx)
