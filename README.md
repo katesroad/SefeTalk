@@ -25,4 +25,7 @@ Track topic and materials mentioned.
   - [Lifting state up and context](https://codesandbox.io/s/sefe-lifting-state-up-1653v)
 
 - 02/15/2021
-  - [promise, async, await](https://codesandbox.io/s/promise-fetch-gucse)
+  - [promise, async, await 1.](https://codesandbox.io/s/promise-fetch-gucse)
+
+- 02/15/2021
+  - [promise, async, await 2.](https://codesandbox.io/s/promise-aysnc-2-pugkx)
