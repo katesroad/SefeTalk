@@ -29,3 +29,6 @@ Track topic and materials mentioned.
 
 - 02/18/2021
   - [promise, async, await 2.](https://codesandbox.io/s/promise-aysnc-2-pugkx)
+
+- 02/22/2021
+   https://codesandbox.io/s/red-platform-8jek4
