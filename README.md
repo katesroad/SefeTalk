@@ -32,3 +32,5 @@ Track topic and materials mentioned.
 
 - 02/22/2021
    https://codesandbox.io/s/red-platform-8jek4
+
+- Redux fundamentals: https://codesandbox.io/s/redux-fundamentals-p3wd4
