@@ -33,4 +33,6 @@ Track topic and materials mentioned.
 - 02/22/2021
    https://codesandbox.io/s/red-platform-8jek4
 
-- Redux fundamentals: https://codesandbox.io/s/redux-fundamentals-p3wd4
+- Redux fundamentals:
+  - Redux fundamentals: https://codesandbox.io/s/redux-fundamentals-p3wd4
+  - A proposal to redux project's structure:   https://github.com/erikras/ducks-modular-redux
